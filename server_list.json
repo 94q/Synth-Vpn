@@ -1,0 +1,233 @@
+[
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "NFOServers.com",
+    "protection": "NFOServers.com",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800022845915176/NewYorkNFO.ovpn",
+    "servername": "New York 1"
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "Tempest Hosting",
+    "protection": "Path Network",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800022686543882/NewYork2_BuyVM.ovpn",
+    "servername": "New York 2"
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "BuyVM",
+    "protection": "Path Network",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800023340875796/PublicLV_FranTech.ovpn",
+    "servername": "Las Vegas 1"
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "100UP",
+    "protection": "Path Network",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800023668023326/Chicago_NFO.ovpn",
+    "servername": "Chicago 1"
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png",
+    "flagurl_small": "https://www.countryflags.io/de/flat/64.png",
+    "provider": "Hetzner",
+    "protection": "Hetzner",
+    "countrycode": "DE",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800024045506570/Falkenstein_1.ovpn",
+    "servername": "Falkenstein 1"
+  },
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/singapore/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/sg/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "SG",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800074020638750/Singapore_1.ovpn",
+    "servername": "Singapore 1"
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "100UP",
+    "protection": "Path Network",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800023152119838/nfoLA.ovpn",
+    "servername": "Los Angeles 1"
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "100UP",
+    "protection": "Path Network",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800022531350638/Miami_1.ovpn",
+    "servername": "Miami 1"
+  },
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/netherlands/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/nl/flat/64.png",
+    "provider": "100UP",
+    "protection": "Path Network",
+    "countrycode": "NL",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800023512813579/Amsterdam_1.ovpn",
+    "servername": "Amsterdam 1"
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
+    "flagurl_small": "https://www.countryflags.io/gb/flat/64.png",
+    "provider": "100UP",
+    "protection": "Path Network",
+    "countrycode": "GB",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800024192294942/London_1.ovpn",
+    "servername": "London 1"
+  },
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/japan/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/jp/flat/64.png",
+    "provider": "100UP",
+    "protection": "Path Network",
+    "countrycode": "JP",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800074167418941/100UP_Tokyo.ovpn",
+    "servername": "Tokyo 1"
+  },
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/australia/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/au/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "AU",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800074381357136/Sydney_1.ovpn",
+    "servername": "Sydney 1"
+  },
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/india/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/in/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "IN",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800074553298944/Mumbai_1.ovpn",
+    "servername": "Mumbai 1"
+  },
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/norway/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/no/flat/64.png",
+    "provider": "TerraHost",
+    "protection": "Telia",
+    "countrycode": "NO",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800074700107796/Oslo_1.ovpn",
+    "servername": "Oslo 1"
+  },
+  {
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800023844159528/Dublin_1.ovpn",
+    "flagurl": "https://cdn.countryflags.com/thumbs/ireland/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/ie/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "IE",
+    "enabled": true,
+    "down": false,
+    "servername": "Dublin 1"
+  },
+  {
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800074914013194/Columbus_1.ovpn",
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "servername": "Columbus 1"
+  },
+  {
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800075081777182/Seoul_1.ovpn",
+    "flagurl": "https://cdn.countryflags.com/thumbs/south-korea/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/sk/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "KR",
+    "enabled": true,
+    "down": false,
+    "servername": "Seoul 1"
+  },
+  {
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800073437634560/Dallas_1.ovpn",
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "Bloom Host",
+    "protection": "Cloudflare",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "servername": "Dallas 1"
+  },
+  {
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800073697689670/SaoPaulo_1.ovpn",
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png",
+    "flagurl_small": "https://www.countryflags.io/br/flat/64.png",
+    "provider": "Vultr",
+    "protection": "Vultr",
+    "countrycode": "BR",
+    "enabled": true,
+    "down": false,
+    "servername": "Sao Paulo 1"
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "NFOServers",
+    "protection": "NFOServers",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800073873833984/Chicago_2.ovpn",
+    "servername": "Chicago 2"
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "Bloom Host",
+    "protection": "Cloudflare",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.discordapp.com/attachments/860199871437209600/934800090944639016/Ashburn_1.ovpn",
+    "servername": "Ashburn 1"
+  }
+]
